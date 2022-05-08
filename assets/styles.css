@@ -1,4 +1,36 @@
 
-body {background-image: url("./photos/moving\ 1.png");
+ body {background-image: url("./photos/moving\ 1.png");
       background-repeat: no-repeat;
-      }
+      background-size: cover;
+      margin: 0;
+      padding: 0; 
+      font-family: 'poppins', Actror , 'Adamina';} 
+/* nav bar */
+ 
+.nav {display: flex;
+     
+      justify-content: flex-end;
+      align-content: center;
+    width: 100%;}
+
+nav {color: white;}
+
+li {display: inline-flex; 
+  align-content: center;
+   padding: 30px;
+   margin: 20px;}
+
+.login1 {background-color:  #FAFF00;
+         border: none;
+        font-size: 20px;
+      padding-left: 15px;}
+
+.login {background-color: black;
+        color: #FAFF00;
+        border: none;
+      font-size: 20px;
+      padding-left: 15px;}
+/*h1*/
+/* h1 {color: #FAFF00;
+   font-size: 70px;
+  margin-left: 40px;} */
