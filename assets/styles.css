@@ -30,7 +30,9 @@ li {display: inline-flex;
         border: none;
       font-size: 20px;
       padding-left: 15px;}
-/*h1*/
-/* h1 {color: #FAFF00;
+
+      /*h1*/
+ h1 {color: #FAFF00;
    font-size: 70px;
-  margin-left: 40px;} */
+  margin-left: 90px;
+  margin-top: 10px;} 
