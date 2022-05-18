@@ -146,24 +146,8 @@ hr {background-color: rgb(253, 217, 54) , rgb(5, 4, 4) ;
 
 
 
-.image-icons p {
-  font-size: 1.5vw;
-  padding: 1.5vw;
-  text-align: center;
-}
-.image-icons div{
-  min-width: 33.3%;
-}
-.image-icons div:nth-child(1) {
-  border-right: 1px solid #dbdad8;
-}
-
-.image-icons div:nth-child(3) {
-  border-left: 1px solid #dbdad8;
-}
-
 footer {
-  width: 100%;
+  width: 80%;
   max-height: 90vh;
   background-color: black;
   color: white;
