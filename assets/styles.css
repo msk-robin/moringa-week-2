@@ -144,10 +144,7 @@ hr {background-color: rgb(253, 217, 54) , rgb(5, 4, 4) ;
   padding: 1.5vw;
 }
 
-.movers-images1 .image-icons {
-  border-top: 1px solid #dbdad8;
-  display: flex;
-}
+
 
 .image-icons p {
   font-size: 1.5vw;
@@ -175,19 +172,11 @@ footer {
 }
 .footer-header p{
   font-size: 3vw;
-  padding: 6vw 0 4vw;
-  border-bottom: 1px solid #5c5b5a;
+  padding: 6vw;
+  border-botton: 1px solid #5c5b5a;
 }
 
-span {
-  color: #FAFF00;
-}
 
-.footer-body {
-  padding: 4vw 0 7vw;
-  display: flex;
-  justify-items: center;
-}
 
 
 .footer-list {
@@ -205,10 +194,3 @@ span {
   font-size: 1.2vw;
   padding-top: 1rem;
 }
-.footer-list ul h5{
-  color: #fff;
-  font-size: 1.2vw;
-
-}
-
-
